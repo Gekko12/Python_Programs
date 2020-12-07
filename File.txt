@@ -1,0 +1,7 @@
+Hi , if you're opening this file means you're handling file through coding (Maybe) .
+Python is invented by Guido Van Rossum .
+It's a nice language for developers but not for competitive programmers as it's slower than C ,C++ ,Java .
+C++ is best for competitive programming .
+THat's all in my mind .
+
+Yaa that's all

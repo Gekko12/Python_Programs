@@ -1,0 +1,3 @@
+First run the UDPServer.py and when the server is ready then run UDPClient.py
+In UDPClient we're using hostname as 'localhost' which is our computer only and port 80 
+
